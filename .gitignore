@@ -38,3 +38,9 @@ sysinfo.txt
 
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
+
+# IDEA files
+.idea
+
+# vim tmp files
+*.swp
