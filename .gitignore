@@ -41,6 +41,8 @@ Assets/StreamingAssets/crashlytics-build.properties
 
 # IDEA files
 .idea
+Assets/Plugins/Editor/JetBrains
 
 # vim tmp files
 *.swp
+
